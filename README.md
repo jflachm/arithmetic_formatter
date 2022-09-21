@@ -1,4 +1,4 @@
-# arithmetic_formatter
+# Arithmetic Arranger
 Free Code Camp project for Scientific Computing with Python
 
 
